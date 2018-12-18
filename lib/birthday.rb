@@ -6,7 +6,5 @@
 
 def happy_birthday(birthday_kids)
   # add your code snippet here!
-  hash.each do |key, value|
-    puts "#{key}: #{value}"
-  end
+
 end
