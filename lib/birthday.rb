@@ -6,6 +6,9 @@
 
 def happy_birthday(birthday_kids)
   # add your code snippet here!
+  hash.each do |key, value|
+    birthday_kids = {:"#{key}" => value}
+  end
 end
 
 
